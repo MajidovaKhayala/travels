@@ -20,7 +20,7 @@ export default function HomePage() {
       name: 'Turkey - Antalya',
       image: turkeyAntalya,
       description: 'Beautiful beaches and luxury resorts',
-      price: 'From €599',
+      price: 'From €800',
       href: '/tours'
     },
     {
