@@ -68,7 +68,7 @@ export default function HomePage() {
         
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Discover the world with <span className="text-bright-orange">TryWell</span>
+            Discover the world with <span className="text-bright-orange">Trywell</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-white/90">
             Your trusted partner for unforgettable international travel experiences
